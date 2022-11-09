@@ -1,1 +1,1 @@
-This content moved to: **https://app-modernization.workshop.aws/en/microservices/lambda.html** 
+Refer AWS lambda documentation 

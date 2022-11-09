@@ -1,9 +1,3 @@
-# AWS Iterative Application Modernization Workshop
+# OakTank Wildlife Photography shop
 
-![](/MonoToMicroAssets/assets1024/unishop_front.png)
-
-This repository contains the workshop code. Please visit 
-
-**https://app-modernization.workshop.aws** 
-
-for the workshop instructions.
+![](/MonoToMicroAssets/assets1024/cheetah.jpeg)
